@@ -14,7 +14,7 @@
 <div id="header" align="center">
   <h1> Контакты </h1>
   
-  <a href="https://t.me/lm_Thomas_SheIby">
+  <a href="https://t.me/Ga_ri_K">
     <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" width="100"/>
   </a>
 
